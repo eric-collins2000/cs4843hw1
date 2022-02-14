@@ -10,9 +10,18 @@
 
 [IAM](#iam)
 
+[CloudFront](#cloudfront)
+
 # [Do you really own goats](#goats)
 
+## TLDR or "Show me the page"
+
+Fine. Here.
+https://assignment1ivqbucketv1.s3.amazonaws.com/index.html
+
 ### Homework One
+
+[Top](#table-of-contents)
 
 The index page at the bottom of my folder structure contains the required video. As seen below:
 ![image](https://user-images.githubusercontent.com/93015308/153783723-b2810c6a-7424-42a6-835e-2ae360c0526f.png)
@@ -52,6 +61,21 @@ Below shows the structure for the bucket and the name.
 
 Below is my IAM policy. I think I may change this since it may not be a fantastic idea to allow a delete/create on user I put out there on the net. Oops. Good thing this is a classroom environment!
 ![image](https://user-images.githubusercontent.com/93015308/153784290-aaa94a66-cf1c-4c7f-99ca-eb3f1e2e6e31.png)
+
+### Cloudfront
+
+[Top](#table-of-contents)
+
+This part I must have missed initially. Since a great deal of what I have typed here is to justifiy the table of contents lets add some pork. Or Goat. Whatever. 
+
+![image](https://user-images.githubusercontent.com/93015308/153785568-2d53945a-f1bd-468a-895c-63d9a2e05a55.png)
+
+This has been a deploying for over 5 minutes. Which is surprising given that the total uncompressed size is ~5 meg. Ahh! Finished!
+
+![image](https://user-images.githubusercontent.com/93015308/153785713-832d3b6d-38db-4c15-b6ce-6a14f9b592c2.png)
+
+Only a day late. Since it's the 13th here. Amazon is always late, but intends to arrive precisely when it means to.
+
 
 ### Goats
 
